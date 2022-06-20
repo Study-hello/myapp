@@ -1,6 +1,6 @@
-# myapp2
+# myapp
 
-A new Flutter project.
+多种组件合在一起.
 
 ## Getting Started
 
